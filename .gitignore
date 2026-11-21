@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+instance/*
+!instance/.gitkeep
+tmp/
+output/
+.env
+*.log
